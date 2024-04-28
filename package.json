@@ -1,5 +1,5 @@
 {
-  "name": "@puneet/spark",
+  "name": "@puneet-org/spark",
   "version": "0.0.1",
   "bin": "index.ts",
   "type": "module",
