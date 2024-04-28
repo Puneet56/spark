@@ -25,7 +25,7 @@ const socketConnections: ServerWebSocket<unknown>[] = [];
 const servePath = positionals[2] || ".";
 
 const printUsage = () => {
-  console.log("Usage: bunx spark <path> [--port <port>]");
+  console.log("Usage: bunx @puneet-org/spark <path> [--port <port>]");
 };
 
 if (!fs.existsSync(servePath)) {

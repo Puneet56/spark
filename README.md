@@ -6,10 +6,10 @@ Tiny development Server with live reload feature for static & dynamic pages usin
 
 ## Usage
 
-```bash
-bunx spark <folder path / file path> --port <port number>
-```
+````bash
+bunx @puneet-org/spark <path> --port <port number> ```
 
 ## License
 
 MIT
+````
