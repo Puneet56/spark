@@ -1,0 +1,12 @@
+{
+  "name": "@puneet/spark",
+  "version": "0.0.1",
+  "bin": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
