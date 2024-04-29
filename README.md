@@ -7,7 +7,8 @@ Tiny development Server with live reload feature for static & dynamic pages usin
 ## Usage
 
 ````bash
-bunx @puneet-org/spark <path> --port <port number> ```
+bunx @puneet-org/spark <path> --port <port number>
+```
 
 ## License
 
